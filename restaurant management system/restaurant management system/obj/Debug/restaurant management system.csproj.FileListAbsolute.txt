@@ -1,0 +1,33 @@
+D:\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+D:\swamygurav\restaurant management system\restaurant management system\bin\Debug\Database.accdb
+D:\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe
+D:\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.pdb
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.csprojResolveAssemblyReference.cache
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Form1.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Main.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Properties.Resources.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.csproj.GenerateResource.Cache
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.register.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.customer.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.breakfast.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.dinner.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.breakfastbill.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.dinnerbill.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.aboutus.resources
+D:\swamygurav\restaurant management system\restaurant management system\bin\Debug\Database.mdb
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.changepassword.resources
+D:\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.custreport.resources
+K:\Comlete Project\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+K:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+K:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
+G:\Comlete Project\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+G:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+G:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
+H:\Comlete Project\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+H:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+H:\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
+D:\pendrive\Comlete Project\swamygurav\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+D:\pendrive\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+D:\pendrive\Comlete Project\swamygurav\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
